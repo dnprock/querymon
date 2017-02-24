@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "pg": "6.1.2"
+  },
+  "devDependencies": {
+    "serverless-offline": "^3.6.0"
+  }
+}
